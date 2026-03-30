@@ -7,7 +7,6 @@ Classic fuzz circuit which was used  by Jimmy Hendrix. Placed in 1590B enclosure
 
 ![fuzz_face_front](img/fuzz_face_front.jpg)
 ![fuzz_face_inside](img/fuzz_face_inside.jpg)
-![fuzz_face_inside](img/fuzz_face_inside.jpg)
 ![fuzz_face_schematic](sch/fuzz_face.png)
 
 ## Overdrive
